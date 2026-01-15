@@ -15,6 +15,14 @@
   <img src="https://img.shields.io/badge/Docker-Containerization-9C6644?style=flat-square&logo=docker" />
   <img src="https://img.shields.io/badge/Bash-Scripting-6F4E37?style=flat-square&logo=gnu-bash" />
 </p>
+---
+
+## 🧭 Architecture
+
+<p align="center">
+  <img src="k8s.png" alt="DevOps Architecture Diagram" width="800"/>
+</p>
+
 
 ---
 
